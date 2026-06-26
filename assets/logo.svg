@@ -1,0 +1,8 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="prove-it">
+  <rect width="128" height="128" rx="28" fill="#0D0F12"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="#34D399" stroke-opacity="0.18"/>
+  <!-- approval seal: double ring + check (proof, not a guess) -->
+  <circle cx="64" cy="64" r="34" fill="none" stroke="#34D399" stroke-width="3" stroke-opacity="0.55"/>
+  <circle cx="64" cy="64" r="27" fill="none" stroke="#34D399" stroke-width="7"/>
+  <path d="M50 64 L60 74 L80 52" stroke="#34D399" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
